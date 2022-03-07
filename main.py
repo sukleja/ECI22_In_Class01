@@ -31,4 +31,5 @@ def loop_test(number):
             continue
 
 loop_test(6)
+print(" ")
 
